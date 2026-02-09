@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urbanlight-290f89de.zappy5.app/sitemap.xml

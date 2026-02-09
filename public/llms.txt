@@ -1,0 +1,85 @@
+# UrbanLight — Generative Engine Optimization Map
+
+> A sleep technology / smart home devices business.
+
+---
+
+## Pages
+
+### Home
+https://urbanlight-290f89de.zappy5.app
+
+### Technology
+https://urbanlight-290f89de.zappy5.app/technology
+
+### Science
+https://urbanlight-290f89de.zappy5.app/science
+
+### Contact
+https://urbanlight-290f89de.zappy5.app/contact
+
+### Products
+https://urbanlight-290f89de.zappy5.app/products
+Our Products - UrbanLight
+
+### Cart
+https://urbanlight-290f89de.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://urbanlight-290f89de.zappy5.app/checkout
+Checkout
+
+### Login
+https://urbanlight-290f89de.zappy5.app/login
+Customer Login
+
+### Account
+https://urbanlight-290f89de.zappy5.app/account
+My Account
+
+### Order Success
+https://urbanlight-290f89de.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://urbanlight-290f89de.zappy5.app/product/:slug
+Product Details - UrbanLight
+
+### Category
+https://urbanlight-290f89de.zappy5.app/category/:slug
+Products - UrbanLight
+
+## Legal & Policy
+
+### Privacy Policy
+https://urbanlight-290f89de.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://urbanlight-290f89de.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://urbanlight-290f89de.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About UrbanLight
+UrbanLight is a business in the sleep technology / smart home devices industry.
+
+## Target Audience
+Israeli market
+
+## Industry
+sleep technology / smart home devices
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://urbanlight-290f89de.zappy5.app/sitemap.xml
+- **Robots.txt**: https://urbanlight-290f89de.zappy5.app/robots.txt
